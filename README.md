@@ -13,8 +13,10 @@ This project involves training and validating convolutional neural networks (CNN
   - Variant 3 (Dropout): Adds dropout regularization to improve model generalization.
   - Variant 4 (Average Pooling): Switches from max to average pooling to smooth feature representations.
 - **Performance Evaluation**: Evaluates models using a validation set, with extensive testing including a test set performance comparison.
-##Results
+
+## Results
 Detailed performance metrics, including accuracy and loss graphs for all models, are included in the project report. Insights into architectural impacts and data augmentation effects on model robustness are discussed.
+
 ## Software and Installation
 - **Python 3.6+**: Recommended for all development and testing.
 - **PyTorch**: Primary framework used for model development.
