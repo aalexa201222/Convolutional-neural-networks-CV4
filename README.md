@@ -27,5 +27,3 @@ git clone [[https://github.com/aalexa201222/Voxel-based-3D-reconstruction.git](h
 ## Contributors
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
 Sotiris Zenios
-## Thanks
-- stanfortonski - https://github.com/stanfortonski - for providing such a great codebase.
