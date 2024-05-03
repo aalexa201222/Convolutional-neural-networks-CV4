@@ -7,6 +7,11 @@ This project involves training and validating convolutional neural networks (CNN
 ## Key Features
 - **Fashion MNIST Dataset**: Utilizes 60k training and 10k test grayscale images across ten clothing categories.
 - **CNN Variants**: Develops five model variants, each differing by one architectural feature to study their impact on performance.
+- Baseline (LeNet-5): Modified to accommodate 28x28 input images, uses max pooling and ReLU activation.
+Variant 1 (3x3 Kernel): Uses smaller kernels in convolutional layers to enhance detail capture.
+Variant 2 (Leaky ReLU): Incorporates Leaky ReLU to address the dying ReLU problem.
+Variant 3 (Dropout): Adds dropout regularization to improve model generalization.
+Variant 4 (Average Pooling): Switches from max to average pooling to smooth feature representations.
 - **Performance Evaluation**: Evaluates models using a validation set, with extensive testing including a test set performance comparison.
 
 ## Software and Installation
